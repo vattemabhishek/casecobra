@@ -14,7 +14,7 @@ enum OrderStatus {
 }
 
 enum PhoneModel {
-  iphoneX
+  iphonex
   iphone11
   iphone12
   iphone13
